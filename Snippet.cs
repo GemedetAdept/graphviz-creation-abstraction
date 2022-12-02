@@ -1,6 +1,6 @@
 public class Snippet {
 
-	public static void Break () {
+	public static void LineBreak () {
 
 		string lineBreak = "";
 		Console.WriteLine(lineBreak);
@@ -9,7 +9,7 @@ public class Snippet {
 
 	public static void Note (object tempMessage) {
 
-		tempMessage = tempMessage.ToString();
+		tempMessage = tempMessage.ToString()!;
 		Console.WriteLine($"* {tempMessage} *");
 	}
 }
