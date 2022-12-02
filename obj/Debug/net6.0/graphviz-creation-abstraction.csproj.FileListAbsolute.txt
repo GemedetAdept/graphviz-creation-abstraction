@@ -1,0 +1,15 @@
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.csproj.AssemblyReference.cache
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.AssemblyInfoInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.AssemblyInfo.cs
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.csproj.CoreCompileInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\bin\Debug\net6.0\graphviz-creation-abstraction.exe
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\bin\Debug\net6.0\graphviz-creation-abstraction.deps.json
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\bin\Debug\net6.0\graphviz-creation-abstraction.runtimeconfig.json
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\bin\Debug\net6.0\graphviz-creation-abstraction.dll
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\bin\Debug\net6.0\ref\graphviz-creation-abstraction.dll
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\bin\Debug\net6.0\graphviz-creation-abstraction.pdb
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.dll
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\ref\graphviz-creation-abstraction.dll
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.pdb
+C:\Users\vivian.zitek\Programming\cSharp\graphviz-creation-abstraction\obj\Debug\net6.0\graphviz-creation-abstraction.genruntimeconfig.cache
